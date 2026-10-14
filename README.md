@@ -1,2 +1,4 @@
-# bot
-bot
+flask
+twilio
+anthropic
+requests
