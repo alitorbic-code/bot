@@ -1,4 +1,1 @@
-flask
-twilio
-anthropic
-requests
+web: gunicorn app:app
